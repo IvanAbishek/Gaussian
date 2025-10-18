@@ -14,14 +14,12 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 4. 
 
 ## Program:
-``` <img width="1197" height="660" alt="Screenshot 2025-10-17 105545" src="https://github.com/user-attachments/assets/e6c69560-0830-49a1-9e86-a6b10803cabe" />
-
-/*
-Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: 
-RegisterNumber: 
-*/
 ``` 
+Program to find the solution of a matrix using Gaussian Elimination.
+Developed by: J.Ivan Abishek Benhannan
+RegisterNumber: 25006144
+``` 
+<img width="1197" height="660" alt="Screenshot 2025-10-17 105545" src="https://github.com/user-attachments/assets/6db7b3a2-3199-4d6f-9388-5f6ac92b37f4" />
 
 
 
